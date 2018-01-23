@@ -1,0 +1,6 @@
+stove
+blade
+knife
+keys
+smartphone
+wallet
